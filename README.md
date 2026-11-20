@@ -79,9 +79,9 @@ Currently open to full-time Data Analyst roles.
 
 | Project | Description | Links |
 |---------|-------------|-------|
-| [Project Title 1] | Brief description of what the analysis covers and the key insight found. | [Repo](#) · [Notebook](#) |
-| [Project Title 2] | Brief description of what the analysis covers and the key insight found. | [Repo](#) · [Notebook](#) |
-| [Project Title 3] | Brief description of what the analysis covers and the key insight found. | [Repo](#) · [Notebook](#) |
+| Superstore Sales Analysis  | Analysed retail sales data to explore business performance, identify sales trends and investigate patterns across the dataset. | [Repo](#) · [Notebook](#) |
+| Environmental Analysis of River Toxins | Investigated environmental data relating to toxin levels across river systems, exploring patterns and relationships within the dataset.  | [Repo](#) · [Notebook](#) |
+| Clinical Trial Analysis: Diabetes Medication | Analysed clinical trial data relating to a diabetes medication to investigate treatment outcomes and patterns within the dataset. | [Repo](#) · [Notebook](#) |
 
 ### Key Achievements
 
